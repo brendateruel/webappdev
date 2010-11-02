@@ -4,9 +4,13 @@
 ## Spring 2011
 
 ### Pre-Semester
-* To Read: Jeremy Keith, _HTML5 for Web Designers_.
-* To Do: Install Ubuntu Linux on a computer that you own personally;
-  contact instructor if you have problems or need assistance.
+* To Read:
+    * Jeremy Keith, _HTML5 for Web Designers_.
+    * Travis Swicegood, _Pragmatic Guide to Git_, Chapters x - xx.
+* To Do:
+    * Install Ubuntu Linux on a computer that you own personally;
+      contact instructor if you have problems or need assistance.
+    * Install and learn to use Git and GitHub on Ubuntu
 
 ### 1/10 - First Night of Class: Diving into HTML5, jQuery, and the Twitter API
 
