@@ -1,6 +1,12 @@
 # Course Policies for COM580: Web Application Development
 Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technology, Spring 2011
 
+## Instructor Information
+Professor [Karl Stolley](http://karlstolley.com)
+karl.stolley@gmail.com
+Office: Siegel Hall 208
+Office Hours: Monday/Tuesday 3:30-5:30 and by appointment
+
 ## Books and Materials
 * Castledine, Earle and Sharkie, Craig. _jQuery: Novice to Ninja_.
   SitePoint, 2010. ISBN: 978-0980576856
