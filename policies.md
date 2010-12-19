@@ -1,10 +1,7 @@
 # Course Policies for COM580: Web Application Development
+Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technology, Spring 2011
 
-## Professor Karl Stolley, Illinois Institute of Technology
-## Spring 2011
-
-### Books and Materials
-
+## Books and Materials
 * Castledine, Earle and Sharkie, Craig. _jQuery: Novice to Ninja_.
   SitePoint, 2010. ISBN: 978-0980576856
 * Cederholm, Dan. _CSS3 for Web Designers_. A Book Apart, 2010.

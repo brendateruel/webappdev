@@ -1,7 +1,5 @@
 # Course Calendar for COM580: Web Application Development
-
-## Professor Karl Stolley, Illinois Institute of Technology
-## Spring 2011
+Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technology, Spring 2011
 
 ### Pre-Semester
 * To Read:
