@@ -17,3 +17,8 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 * Thomas, Dave, with Fowler, Chad and Hunt, Andy. (2009). _Programming Ruby 1.9:
   The Pragmatic Programmers' Guide_, 3rd Ed. Pragmatic Bookshelf, 2009. 
   ISBN: 978-1-93435-608-1
+
+## License
+Course materials by [Karl Stolley](http://karlstolley.com). Licensed under a
+[Creative Commons Attribution 3.0 United States
+License](http://creativecommons.org/licenses/by/3.0/us/).
