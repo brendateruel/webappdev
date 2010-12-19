@@ -7,6 +7,8 @@
 
 * Castledine, Earle and Sharkie, Craig. _jQuery: Novice to Ninja_.
   SitePoint, 2010. ISBN: 978-0980576856
+* Cederholm, Dan. _CSS3 for Web Designers_. A Book Apart, 2010.
+  ISBN: 978-0984442522
 * Keith, Jeremy. _DOM Scripting: Web Design with JavaScript and
   the Document Object Model_. Friends of ED, 2005. ISBN: 978-1590595336
 * Keith, Jeremy. _HTML5 for Web Designers_. A Book Apart, 2010.
