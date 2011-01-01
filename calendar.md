@@ -4,7 +4,6 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 ### Pre-Semester
 * To Read:
     * Jeremy Keith, _HTML5 for Web Designers_.
-    * Travis Swicegood, _Pragmatic Guide to Git_, Chapters x - xx.
 * To Do:
     * Install Ubuntu Linux on a computer that you own personally;
       contact instructor if you have problems or need assistance.
@@ -14,24 +13,29 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 * In Class:
     * ...
 * To Read:
+    * _DOM Scripting: Web Design with JavaScript and the Document Object Model_
+    * _jQuery: Novice to Ninja_
+    * _Pragmatic Guide to Git_, Chapters x - xx.
     * ...
 * To Do:
     * ...
 
 ### 1/17 - NO CLASS; MLK DAY
 
-### 1/24 - DOM Scripting
+### 1/24 - DOM Scripting & jQuery
 * In Class:
     * ...
 * To Read:
+    * _CSS3 for Web Designers_
     * ...
 * To Do:
     * ...
 
-### 1/31 - jQuery
+### 1/31 - CSS3
 * In Class:
     * ...
 * To Read:
+    * _Agile Web Development with Rails_
     * ...
 * To Do:
     * ...
@@ -96,7 +100,7 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 * To Do:
     * ...
 
-### 4/11 - Mobile Development I
+### 4/11 - Mobile Design I
 * In Class:
     * ...
 * To Read:
@@ -104,7 +108,7 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 * To Do:
     * ...
 
-### 4/18 - Mobile Development II
+### 4/18 - Mobile Design II
 * In Class:
     * ...
 * To Do:
