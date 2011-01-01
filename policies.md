@@ -25,6 +25,7 @@ this course.
 * Learn and employ agile development methods for front- and back-end design
 * Become familiar with Ruby development frameworks and the Model-View-Controller
   (MVC) architecture
+* Explore and design for the affordances and constraints of mobile interfaces
 * Connect course content to principles and practices in technical communication
   and information architecture
 * Apply course concepts and adjust/extend course projects to fit your own
