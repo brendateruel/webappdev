@@ -1,5 +1,5 @@
 # Course Syllabus and Materials for COM580: Web Application Development
-Professor Karl Stolley, Illinois Institute of Technology
+Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technology, Spring 2011
 
 Rather than provide a course website/wiki as I usually do, for this course I'm
 making all materials available as a Git repository; students may fork this
