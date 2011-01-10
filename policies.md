@@ -2,10 +2,10 @@
 Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technology, Spring 2011
 
 ## Instructor Information
-Professor [Karl Stolley](http://karlstolley.com)
-karl.stolley@gmail.com
-Office: Siegel Hall 208
-Office Hours: Monday/Tuesday 3:30-5:30 and by appointment
+Professor [Karl Stolley](http://karlstolley.com)  
+karl.stolley@gmail.com  
+Office: Siegel Hall 208  
+Office Hours: Monday/Tuesday 3:30-5:30 and by appointment  
 
 ## Course Description
 A production-intensive course in applied theory and practice of developing
