@@ -4,18 +4,19 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 ### Pre-Semester
 * To Read:
     * Jeremy Keith, _HTML5 for Web Designers_.
-* To Do:
-    * Install Ubuntu Linux on a computer that you own personally;
-      contact instructor if you have problems or need assistance.
-    * Install and learn to use Git and GitHub on Ubuntu
 
-### 1/10 - First Night of Class: Diving into HTML5, jQuery, and the Twitter API
+### 1/10 - First Night of Class: Diving into HTML5 and the Twitter API
 * In Class:
+    * Introductions
+    * Course policies and calendar
+    * Setting up essential technologies (git, wiki)
+    * Introduce Project 1
+    * HTML5 and building a basic web app w/ Twitter
     * ...
 * To Read:
-    * _DOM Scripting: Web Design with JavaScript and the Document Object Model_
-    * _jQuery: Novice to Ninja_
-    * _Pragmatic Guide to Git_, Chapters x - xx.
+    * _DOM Scripting: Web Design with JavaScript and the Document Object Model_, Ch. 1, 2, 3, 5, 7, and 8
+    * _jQuery: Novice to Ninja_, Ch. 1-5
+    * _Pragmatic Guide to Git_, Introduction, Parts 1 and 2.
     * ...
 * To Do:
     * ...
@@ -26,7 +27,8 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 * In Class:
     * ...
 * To Read:
-    * _CSS3 for Web Designers_
+    * _Pragmatic Guide to Git_, Parts 3, 5, and 6
+    * _CSS3 for Web Designers_ (all)
     * ...
 * To Do:
     * ...
@@ -52,7 +54,8 @@ Professor [Karl Stolley](http://karlstolley.com), Illinois Institute of Technolo
 * In Class:
     * ...
 * To Read:
-    * ...
+    * _Pragmatic Guide to Git_, Parts 4, 7, and 8
+    ...
 * To Do:
     * ...
 
